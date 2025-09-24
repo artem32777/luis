@@ -97,15 +97,15 @@ onMounted(async () => {
     }
 
     .image-0 {
-      transform: translate(-145px, 0);
+      transform: translate(-155px, 0);
     }
 
     .image-1 {
-      transform: translate(-100px, 0);
+      transform: translate(-110px, 0);
     }
 
     .image-2 {
-      transform: translate(-55px, 0);
+      transform: translate(-65px, 0);
     }
 
     .title, .btn {
