@@ -1,0 +1,13 @@
+body {
+  font-family: 'Exo 2', sans-serif;
+}
+
+@font-face {
+  font-family: 'Exo 2';
+  src: url('/fonts/Exo2Var.woff2') format('woff2 supports variations'),
+  url('/fonts/Exo2Var.woff2') format('woff2-variations');
+  font-weight: 500 600;
+  font-stretch: 75% 125%;
+  font-style: normal;
+  font-display: swap;
+}
